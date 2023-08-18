@@ -1,1 +1,1 @@
-# bi-course-estiam
+# Repository for Summer BI Course at ESTIAM
